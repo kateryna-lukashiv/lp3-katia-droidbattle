@@ -1,0 +1,394 @@
+-------------------------------------
+Round 1
+jjj get hit with 3 damage
+Defender jjj health = 51
+
+Attacker kkk health = 78
+
+-------------------------------------
+Round 2
+kkk get hit with 5 damage
+Defender kkk health = 73
+
+Attacker jjj health = 51
+
+-------------------------------------
+Round 3
+kkk get hit with 4 damage
+Defender kkk health = 69
+
+Attacker jjj health = 51
+
+-------------------------------------
+Round 4
+jjj get hit with 3 damage
+Defender jjj health = 48
+
+Attacker kkk health = 69
+
+-------------------------------------
+Round 5
+jjj get hit with 1 damage
+Defender jjj health = 47
+
+Attacker kkk health = 69
+
+-------------------------------------
+Round 6
+jjj get hit with 2 damage
+Defender jjj health = 45
+
+Attacker kkk health = 69
+
+-------------------------------------
+Round 7
+jjj get hit with 3 damage
+Defender jjj health = 42
+
+Attacker kkk health = 69
+
+-------------------------------------
+Round 8
+jjj get hit with 3 damage
+Defender jjj health = 39
+
+Attacker kkk health = 69
+
+-------------------------------------
+Round 9
+jjj get hit with 1 damage
+Defender jjj health = 38
+
+Attacker kkk health = 69
+
+-------------------------------------
+Round 10
+jjj get hit with 1 damage
+Defender jjj health = 37
+
+Attacker kkk health = 69
+
+-------------------------------------
+Round 11
+kkk get hit with 4 damage
+Defender kkk health = 65
+
+Attacker jjj health = 37
+
+-------------------------------------
+Round 12
+kkk get hit with 4 damage
+Defender kkk health = 61
+
+Attacker jjj health = 37
+
+-------------------------------------
+Round 13
+jjj get hit with 1 damage
+Defender jjj health = 36
+
+Attacker kkk health = 61
+
+-------------------------------------
+Round 14
+kkk get hit with 5 damage
+Defender kkk health = 56
+
+Attacker jjj health = 36
+
+-------------------------------------
+Round 15
+jjj get hit with 0 damage
+Defender jjj health = 36
+
+Attacker kkk health = 56
+
+-------------------------------------
+Round 16
+jjj get hit with 2 damage
+Defender jjj health = 34
+
+Attacker kkk health = 56
+
+-------------------------------------
+Round 17
+kkk get hit with 3 damage
+Defender kkk health = 53
+
+Attacker jjj health = 34
+
+-------------------------------------
+Round 18
+jjj get hit with 3 damage
+Defender jjj health = 31
+
+Attacker kkk health = 53
+
+-------------------------------------
+Round 19
+jjj get hit with 2 damage
+Defender jjj health = 29
+
+Attacker kkk health = 53
+
+-------------------------------------
+Round 20
+jjj get hit with 1 damage
+Defender jjj health = 28
+
+Attacker kkk health = 53
+
+-------------------------------------
+Round 21
+jjj get hit with 0 damage
+Defender jjj health = 28
+
+Attacker kkk health = 53
+
+-------------------------------------
+Round 22
+jjj get hit with 2 damage
+Defender jjj health = 26
+
+Attacker kkk health = 53
+
+-------------------------------------
+Round 23
+jjj get hit with 3 damage
+Defender jjj health = 23
+
+Attacker kkk health = 53
+
+-------------------------------------
+Round 24
+jjj get hit with 0 damage
+Defender jjj health = 23
+
+Attacker kkk health = 53
+
+-------------------------------------
+Round 25
+jjj get hit with 1 damage
+Defender jjj health = 22
+
+Attacker kkk health = 53
+
+-------------------------------------
+Round 26
+jjj get hit with 3 damage
+Defender jjj health = 19
+
+Attacker kkk health = 53
+
+-------------------------------------
+Round 27
+jjj get hit with 0 damage
+Defender jjj health = 19
+
+Attacker kkk health = 53
+
+-------------------------------------
+Round 28
+kkk get hit with 0 damage
+Defender kkk health = 53
+
+Attacker jjj health = 19
+
+-------------------------------------
+Round 29
+jjj get hit with 0 damage
+Defender jjj health = 19
+
+Attacker kkk health = 53
+
+-------------------------------------
+Round 30
+jjj get hit with 2 damage
+Defender jjj health = 17
+
+Attacker kkk health = 53
+
+-------------------------------------
+Round 31
+jjj get hit with 2 damage
+Defender jjj health = 15
+
+Attacker kkk health = 53
+
+-------------------------------------
+Round 32
+jjj get hit with 2 damage
+Defender jjj health = 13
+
+Attacker kkk health = 53
+
+-------------------------------------
+Round 33
+kkk get hit with 4 damage
+Defender kkk health = 49
+
+Attacker jjj health = 13
+
+-------------------------------------
+Round 34
+jjj get hit with 0 damage
+Defender jjj health = 13
+
+Attacker kkk health = 49
+
+-------------------------------------
+Round 35
+kkk get hit with 2 damage
+Defender kkk health = 47
+
+Attacker jjj health = 13
+
+-------------------------------------
+Round 36
+kkk get hit with 6 damage
+Defender kkk health = 41
+
+Attacker jjj health = 13
+
+-------------------------------------
+Round 37
+jjj get hit with 2 damage
+Defender jjj health = 11
+
+Attacker kkk health = 41
+
+-------------------------------------
+Round 38
+jjj get hit with 0 damage
+Defender jjj health = 11
+
+Attacker kkk health = 41
+
+-------------------------------------
+Round 39
+jjj get hit with 0 damage
+Defender jjj health = 11
+
+Attacker kkk health = 41
+
+-------------------------------------
+Round 40
+jjj get hit with 3 damage
+Defender jjj health = 8
+
+Attacker kkk health = 41
+
+-------------------------------------
+Round 41
+jjj get hit with 0 damage
+Defender jjj health = 8
+
+Attacker kkk health = 41
+
+-------------------------------------
+Round 42
+jjj get hit with 1 damage
+Defender jjj health = 7
+
+Attacker kkk health = 41
+
+-------------------------------------
+Round 43
+jjj get hit with 0 damage
+Defender jjj health = 7
+
+Attacker kkk health = 41
+
+-------------------------------------
+Round 44
+kkk get hit with 3 damage
+Defender kkk health = 38
+
+Attacker jjj health = 7
+
+-------------------------------------
+Round 45
+kkk get hit with 2 damage
+Defender kkk health = 36
+
+Attacker jjj health = 7
+
+-------------------------------------
+Round 46
+kkk get hit with 5 damage
+Defender kkk health = 31
+
+Attacker jjj health = 7
+
+-------------------------------------
+Round 47
+kkk get hit with 5 damage
+Defender kkk health = 26
+
+Attacker jjj health = 7
+
+-------------------------------------
+Round 48
+jjj get hit with 1 damage
+Defender jjj health = 6
+
+Attacker kkk health = 26
+
+-------------------------------------
+Round 49
+kkk get hit with 3 damage
+Defender kkk health = 23
+
+Attacker jjj health = 6
+
+-------------------------------------
+Round 50
+kkk get hit with 3 damage
+Defender kkk health = 20
+
+Attacker jjj health = 6
+
+-------------------------------------
+Round 51
+jjj get hit with 1 damage
+Defender jjj health = 5
+
+Attacker kkk health = 20
+
+-------------------------------------
+Round 52
+jjj get hit with 2 damage
+Defender jjj health = 3
+
+Attacker kkk health = 20
+
+-------------------------------------
+Round 53
+kkk get hit with 2 damage
+Defender kkk health = 18
+
+Attacker jjj health = 3
+
+-------------------------------------
+Round 54
+jjj get hit with 1 damage
+Defender jjj health = 2
+
+Attacker kkk health = 18
+
+-------------------------------------
+Round 55
+kkk get hit with 4 damage
+Defender kkk health = 14
+
+Attacker jjj health = 2
+
+-------------------------------------
+Round 56
+jjj get hit with 3 damage
+Defender jjj health = 0
+
+Attacker kkk health = 14
+
+--------------
+The winner is kkk
